@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+It's been a couple years since I took a class in Python, so I'm definitely a little rusty. I definitely think watching the video was helpful. I also thinking using the OneCard.py exmaple from class helped me a lot. I feel like computer.py was a lot easier for me to grasp than oo_resale_shop.py. (I know I didn't actually finish the resale shop part, I'm planning to resubmit, but I didn't want to get behind on A3). I also asked for advice from someone who took this class last semester, and I really don't think I would have been able to figure out a lot of this completely alone. I did not go to TA hours for this assignment (yet) but that is definitely something I'd like to do in the future as I feel that could be really helpful. For someone taking this class in the future, I'd tell them to give themselves a lot of time to work on this assignment, just to try and figure things out and really understand. 

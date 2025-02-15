@@ -11,7 +11,7 @@ from procedural_resale_shop import buy, update_price, sell, print_inventory, ref
     explicit data types (str, int, etc.) listed in a python function. We're 
     going to go the extra step, because when we get to Java it'll be required!
 """
-def create_computer(description: str,
+def create_computer(description: str, 
                     processor_type: str,
                     hard_drive_capacity: int,
                     memory: int,
